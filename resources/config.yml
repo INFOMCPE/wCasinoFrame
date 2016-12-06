@@ -1,0 +1,14 @@
+---
+# plugin wCasinoFrame - by(Svaytoslav Dubrovskii)
+# Price Economy API / Цена в валюте Economy API
+Price_game: 100
+# Языки/Language: EN , RU
+Language: RU
+# Тексты/Texts
+Go_game: §4-> §fИгра началась
+TapText: §4-> §fДля начала игры нажмите на рычаг
+already_underway: §4-> §fИгра уже идет
+Nomoney: §4-> §fУ вас недостаточно денег
+Beat_game: §f[§6Casnio§f] Ты победил и твой выйгрыш
+Loss_game: §f[§6Casnio§f] К сожалению, ты проиграл
+...
