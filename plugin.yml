@@ -1,0 +1,35 @@
+name: wCasinoFrame
+main: WMaster\wCasinoFrame
+version: 1.0.2
+api: 2.0.0
+author: Святослав Дубровский
+website: infomcpe.ru
+commands:
+  cstart:
+    default: true
+    description: Активация казино
+    aliases: [cstart]
+  cset1:
+    default: true
+    description: Направляем предмет в 1 рамку
+    aliases: [cset1]
+  cset2:
+    default: true
+    description: Направляем предмет в 2 рамку
+    aliases: [cset2]
+  cset3:
+    default: true
+    description: Направляем предмет в 3 рамку
+    aliases: [cset3]
+  cset4:
+    default: true
+    description: Направляем предмет рычаг
+    aliases: [cset4]
+  cinfo:
+    default: true
+    description: Информация о плагине
+    aliases: [cinfo]
+  cxyz:
+    default: op
+    description: Координаты
+    aliases: [cxyz]
